@@ -1,0 +1,33 @@
+html,body{
+    background: url(../img/bg3.jpg) no-repeat center center fixed;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+/* .container{
+    margin-top: 14%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} */
+.item1{
+    margin-top: 250px;
+    font-family: 'Times New Roman', Times, serif;
+    background: linear-gradient(to right,#91ff00,#ff006a);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+.button{
+    margin-top: 15%;
+    background: linear-gradient(to right,#ff8a00,#da1b60);
+    width: 150px;
+    height: 50px;
+    border-radius: 3px; 
+    /* transform: translateX(-50%) translateY(-50%); */
+   
+    
+}
